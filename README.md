@@ -1,4 +1,4 @@
-# Clock
+# Clock 🕑
 ## Build Using JS
 <img src="/assets/screenshot.png" alt="screenshot" style="height: 100%; width:100%;"/>
 
@@ -12,7 +12,7 @@
 
 ## How to use
 
-Follow This link
+Follow This link : https://h4k3r13.github.io/JS-Clock/
 
 ## Run Locally
 
