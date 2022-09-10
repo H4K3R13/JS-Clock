@@ -1,6 +1,6 @@
 # Clock
 ## Build Using JS
-<img src="/assets/screenshot.png" alt="screenshot" style="height: 100px; width:100px;"/>
+<img src="/assets/screenshot.png" alt="screenshot" style="height: 100%; width:100%;"/>
 
 ## Features
 - You can find TIME here 😁
